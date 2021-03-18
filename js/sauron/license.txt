@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sauron
+* source:	https://sketchfab.com/3d-models/sauron-2da004da98c84d8799a90ca017e3dc3e
+* author:	DarthMongolTheUnwise (https://sketchfab.com/DarthMongolTheUnwise)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sauron" (https://sketchfab.com/3d-models/sauron-2da004da98c84d8799a90ca017e3dc3e) by DarthMongolTheUnwise (https://sketchfab.com/DarthMongolTheUnwise) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,376 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7435,
+      "max": [
+        5.6849231719970703,
+        2.1780428886413574,
+        21.214731216430664
+      ],
+      "min": [
+        -4.0022010803222656,
+        -3.0769970417022705,
+        0.12653300166130066
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 89220,
+      "componentType": 5126,
+      "count": 7435,
+      "max": [
+        0.99953800439834595,
+        0.99997150897979736,
+        0.99993205070495605
+      ],
+      "min": [
+        -0.999858558177948,
+        -0.99994897842407227,
+        -0.99983471632003784
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7435,
+      "max": [
+        0.99929118156433105,
+        0.99863147735595703,
+        0.99992913007736206,
+        1
+      ],
+      "min": [
+        -0.99977046251296997,
+        -0.99586611986160278,
+        -0.99947816133499146,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7435,
+      "max": [
+        0.99329298734664917,
+        0.99928402900695801
+      ],
+      "min": [
+        0.00071599998045712709,
+        0.00071599998045712709
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 18354,
+      "max": [
+        7434
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 178440,
+      "componentType": 5126,
+      "count": 1010,
+      "max": [
+        6.6350460052490234,
+        5.1600799560546875,
+        15.160664558410645
+      ],
+      "min": [
+        -4.6955862045288086,
+        -2.970242977142334,
+        1.2185410261154175
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 190560,
+      "componentType": 5126,
+      "count": 1010,
+      "max": [
+        0.99906229972839355,
+        0.98275917768478394,
+        0.99782520532608032
+      ],
+      "min": [
+        -0.9994206428527832,
+        -0.9995654821395874,
+        -0.99841189384460449
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 118960,
+      "componentType": 5126,
+      "count": 1010,
+      "max": [
+        0.99698805809020996,
+        0.99807465076446533,
+        0.99940234422683716,
+        1
+      ],
+      "min": [
+        -0.99714112281799316,
+        -0.99998259544372559,
+        -0.99992907047271729,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 59480,
+      "componentType": 5126,
+      "count": 1010,
+      "max": [
+        0.9919390082359314,
+        0.98888200521469116
+      ],
+      "min": [
+        0.01569800078868866,
+        0.013012000359594822
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 73416,
+      "componentType": 5125,
+      "count": 3732,
+      "max": [
+        1009
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "DarthMongolTheUnwise (https://sketchfab.com/DarthMongolTheUnwise)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/sauron-2da004da98c84d8799a90ca017e3dc3e",
+      "title": "Sauron"
+    },
+    "generator": "Sketchfab-9.80.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 88344,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 67560,
+      "byteOffset": 88344,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 202680,
+      "byteOffset": 155904,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 135120,
+      "byteOffset": 358584,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 493704,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/sauron_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/sauron_normal.png"
+    },
+    {
+      "uri": "textures/sauron_mace_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/sauron_mace_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": false,
+      "name": "sauron",
+      "normalTexture": {
+        "index": 1,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "sauron_mace",
+      "normalTexture": {
+        "index": 3,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "Sauron.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
+
